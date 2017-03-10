@@ -21,13 +21,13 @@
     <link rel="sitemap" type="application/xml" title="Sitemap" href="sitemap.xml">
 
     <!-- ICON -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
-    <link rel="shortcut icon" type="image/png" href="assets/img/favicon.png">
-    <link rel="apple-touch-icon" href="assets/img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico">
+    <link rel="shortcut icon" type="image/png" href="../images/favicon.png">
+    <link rel="apple-touch-icon" href="../images/favicon.png">
 
     <!-- CSS -->
     <!-- optional <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">-->
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="../css/styles.css">
 
 </head>
 
